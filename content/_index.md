@@ -4,14 +4,17 @@ date = 2020-07-09
 page_template="simple-page.html"
 
 [extra]
-title = "Senior student at University of Pittsburgh"
+title = "Master student at Carnegie Mellon University"
 
 interests = [
   "Coding",
   "Game",
   "Detective fiction"
 ]
-
+[[extra.education.courses]]
+  course = "Carnegie Mellon University"
+  institution = "Master of Science in Information Networking"
+  year = 2024
 [[extra.education.courses]]
   course = "University of Pittsburgh"
   institution = "Bachelor of Science in Computer Science"
@@ -24,6 +27,6 @@ interests = [
 
 [[extra.avatar_icons]]
   icon = "linkedin"
-  link = "https://www.linkedin.com/in/junshang-jia-2048571b3/"
+  link = "https://www.linkedin.com/in/junshang-jia/"
 +++
-Senior Year student at University of Pittsburgh with a focus on Web Development. Interned at Ericsson and worked on full stack development.
+Master student at Carnegie Mellon University with a focus on Web Development. Interned at Ericsson and worked on full stack development.
