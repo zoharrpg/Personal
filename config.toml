@@ -34,5 +34,5 @@ email = "junshanj[at]andrew.cmu.edu"
 
 menu_items = [
 
-{ path = "Junshang_Jia_Resume.pdf", name = "Resume" },
+{ path = "Junshang_Jia_resume.pdf", name = "Resume" },
 ]
