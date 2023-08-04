@@ -5,6 +5,9 @@ description = """
 Memory allocator
 """
 +++
+[Github Link](https://github.com/zoharrpg/Malloc)\
+[malloc write-up](../../document/15213-write-up/malloclab.pdf)\
+
 CMU 15213 Malloc Lab
 
 In this lab you will write a dynamic memory allocator which will consist of the malloc, free, realloc, and

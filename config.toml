@@ -27,7 +27,7 @@ favicon = "static/pic.jpg"
 
 
 # If you don't want to show your contact information in the index
-email = "junshanj[at]andrew.cmu.edu"
+email = "junshanj@andrew.cmu.edu"
 
 # Additional menu items
 # `Name` is what it is displayed, `path` is the url

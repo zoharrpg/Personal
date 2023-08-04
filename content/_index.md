@@ -7,18 +7,19 @@ page_template="simple-page.html"
 title = "Master student at Carnegie Mellon University"
 
 interests = [
-  "Coding",
-  "Game",
-  "Detective fiction"
+  "System",
+  "Web Development",
+  "Functional Programming",
+  "Game"
 ]
 [[extra.education.courses]]
   course = "Carnegie Mellon University"
   institution = "Master of Science in Information Networking"
-  year = 2024
+  year = 2023
 [[extra.education.courses]]
   course = "University of Pittsburgh"
   institution = "Bachelor of Science in Computer Science"
-  year = 2023
+  year = 2019
 
 
 [[extra.avatar_icons]]

@@ -1,6 +1,6 @@
 +++
 title = "Crossword"
-date = 2022-06-02
+date = 2020-06-02
 description = """
 Crossword Problem solver
 """
