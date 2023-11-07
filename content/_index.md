@@ -8,7 +8,7 @@ title = "Master student at Carnegie Mellon University"
 
 interests = [
   "System",
-  "Web Development",
+  "Backend Development",
   "Functional Programming",
   "Game"
 ]
@@ -30,4 +30,4 @@ interests = [
   icon = "linkedin"
   link = "https://www.linkedin.com/in/junshang-jia/"
 +++
-Master student at Carnegie Mellon University with a focus on Web Development. Interned at Ericsson and worked on full stack development.
+Master student at Carnegie Mellon University with a focus on backend development. Interned at Ericsson and worked on full stack development.
